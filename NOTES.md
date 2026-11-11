@@ -1,7 +1,7 @@
 # Ghi chú phân tích · Day 04
 
-Họ và tên:
-MSSV:
+Họ và tên: Nguyễn Tuấn Phong    
+MSSV: 2A202603712
 
 ## 1. Case được chọn
 
